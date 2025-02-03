@@ -1,0 +1,45 @@
+.dialog-title {
+    font-size: 24px;
+    color: #ffffff; /* Red color for 'Session Expired' */
+    background-color: #EC625C;
+    padding-left: 10px;
+}
+
+.div-para{
+    width: 300px;
+    align-self: center;
+}
+  .dialog-content {
+    justify-content: center;
+    display: flex;  
+    width: 400px;
+    font-size: 16px;
+    text-align: center;
+    color: #000000; /* Darker text color for better readability */
+    margin-bottom: 20px;
+  }
+  
+  .dialog-actions {
+    display: flex;
+    justify-content: right;
+    margin-top: 0px;
+    margin-right: 2px;
+    margin-bottom: 2px;
+    
+  }
+  
+  .ok-button {
+    background-color: #EC625C; /* Red background for the OK button */
+    color: white;
+    font-size: 16px;
+    padding: 4px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    border-color: #EC625C;
+  }
+  
+  .ok-button:hover {
+    background-color: #d32f2f; /* Darker red on hover */
+  }
+  

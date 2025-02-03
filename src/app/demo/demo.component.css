@@ -1,0 +1,14 @@
+.child1{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+
+}
+
+
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-evenly;
+}

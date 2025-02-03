@@ -1,0 +1,9 @@
+.example-spacer {
+    flex: 1 1 auto;
+  }
+
+.img-img{
+    width: 2.1%;
+    height: 40%;
+    border-radius: 50%;
+}
